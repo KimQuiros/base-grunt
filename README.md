@@ -14,6 +14,7 @@ Corran este comando en el directorio del proyecto para que se instalen todos los
 
 <pre> npm install </pre>
 
+<pre>npm install -g grunt-cli</pre>
 
 ### Dependencias:
 
