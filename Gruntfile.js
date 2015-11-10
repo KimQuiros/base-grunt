@@ -20,14 +20,14 @@ module.exports = function(grunt) {
             },
             dist: {
                 files: {
-                    'css/style.css' : 'components/sass/style.scss'
+                    'css/style.min.css' : 'components/sass/style.scss'
                 }
             }
         }, /* sass */
 
         uglify: {
             dist: {
-                files: { 'js/script.js': ['components/js/script.js'] }
+                files: { 'js/script.min.js': ['components/js/script.js'] }
             }
         }, /* uglify */
 
