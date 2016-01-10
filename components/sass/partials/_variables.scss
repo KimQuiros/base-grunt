@@ -1,0 +1,20 @@
+/* ==|====================
+   Partials/Variables
+   -------INDEX--------
+   #Max-content
+   #Breakpoints
+   ======================= */
+   
+/* #Max-content
+ *-------------------------------------------------------*/
+$max-content:1200px;
+
+/* #Breakpoints
+ *-------------------------------------------------------*/
+$site-breakpoints: (
+  "base": "20em", //320px
+  "small": "37.5em", //600px
+  "medium": "56.25em", //900px
+  "large": "68.75em", //1100px
+  "x-large": "87.5em", //1400px
+);
